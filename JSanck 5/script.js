@@ -10,7 +10,7 @@ let numeriDisp = [];
     
     const numUtente = prompt("dammi un numero");
 
-    if(numUtente % 3 ===0){
+    if(!(numUtente % 2 ===0)){
       numeriDisp.push(numUtente)
     }
     console.log(numeriDisp);
