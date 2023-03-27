@@ -1,6 +1,6 @@
 
 const numero = 2
-x = 1
+let x = 1
 let potenza = 0;
 
 do{

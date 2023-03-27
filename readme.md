@@ -19,3 +19,6 @@ svolgere i seguenti snack:
 
 ## **JSnack 7**  
  Stampa le potenze di 2 fino a 1000.
+  - inizializzo una variabile con il valore che voglio elevare 
+  - creo la avriabile x = 1 che attraverso il ciclo su  math.pow sará l'esponente 
+  - creo il ciclo do while che aumenterá l'esponente finche il risultato della potenza non sará < 1000
